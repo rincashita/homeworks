@@ -7,7 +7,7 @@
 3. Логика.
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
 №|Описание|Ссылка на работу
----|:---:|---:
+---
 1|g |
 2|d |
 3|g |
